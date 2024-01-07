@@ -1,0 +1,58 @@
+body {
+    background-color: burlywood;
+}
+.container1 {
+    background-color: lightskyblue;
+    border-style: outset;
+    width: 250px;
+    padding: 50px 50px;
+   text-align: center;
+   display: inline-block;
+   margin-top: 0px;
+}
+.container2 {
+    background-color: red;
+    border-style: outset;
+    width: 250px;
+    padding: 50px 50px;
+    text-align: center;
+    margin-top:  0px;
+}
+
+.container3 {
+    background-color: aqua;
+    border-style: outset;
+    width: 250px;
+    padding: 50px 50px;
+    text-align: center;
+    margin-top: 0px;0
+}
+.vvs {
+    display: flex;
+}
+button {
+    background-color: brown;
+}
+div :hover{
+    color: blue;
+}
+nav ul{
+    float: right;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color: rgb(19, 16, 16);
+    text-decoration: none;
+}
+nav li a:hover{
+    color: blue;
+}
+nav h1{
+    background-color: rgb(10, 245, 174);
+}
